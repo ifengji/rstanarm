@@ -256,7 +256,7 @@ outcome(s).
 The `pp_check` function generates a variety of plots comparing the observed 
 outcome $y$ to simulated datasets $y^{\rm rep}$ from the posterior predictive 
 distribution using the same observations of the predictors $X$ as we used to fit
-the model. He we show a few of the possible displays. The documentation at
+the model. Here we show a few of the possible displays. The documentation at
 `help("pp_check.stanreg", package = "rstanarm")` has details on all of the
 `pp_check` options.
 
